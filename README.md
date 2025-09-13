@@ -5,7 +5,7 @@
 
 *Transform your PDF workflow with AI-powered conversations, advanced annotations, and comprehensive document analysis*
 
-![Nexus AI Interface](Interface.png)
+![Nexus AI Interface]([Interface.png](https://github.com/Ridhyansh/chatpdf/blob/main/nexus-ai-main/Interface.png))
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/)
